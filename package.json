@@ -1,0 +1,20 @@
+{
+  "name": "datacache",
+  "version": "1.0.0",
+  "description": "Utility to asynchronously read a parent document and its declared children from Cloudant and constructs a JSON object with the contained data.",
+  "dependencies": {
+    "bluebird": "~3.5.1",
+    "cloudant": "~1.10.0-NOTICE",
+    "deepcopy": "~0.6.3",
+    "memory-cache": "~0.2.0"
+  },
+  "private": false,
+  "repository": "",
+  "keywords": [
+    "node.js",
+    "data cache",
+    "memory cache",
+    "app config"
+  ],
+  "author": "pawan.pinjarkar@gmail.com"
+}
